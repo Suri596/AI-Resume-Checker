@@ -1,0 +1,2 @@
+We are looking for a Python developer with experience in data analysis, SQL, and machine learning.
+Strong skills in Python, Pandas, and problem-solving are required.
